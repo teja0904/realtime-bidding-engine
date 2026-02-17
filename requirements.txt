@@ -1,0 +1,22 @@
+# Data Manipulation
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Online Machine Learning (The Core)
+river>=0.15.0  # Supports Hoeffding Trees, FM, Online Metrics
+
+# Deep Learning (For the Neural Baseline)
+torch>=2.0.0
+
+# Visualization & Dashboard
+streamlit
+altair
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+requests
+pydantic
+pydantic-settings
